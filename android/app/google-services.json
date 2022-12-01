@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406801092134",
+    "project_id": "water-bottle-54c78",
+    "storage_bucket": "water-bottle-54c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406801092134:android:654bc6aa90216efddba0e7",
+        "android_client_info": {
+          "package_name": "com.example.water_bottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406801092134-7p0sgctoiu46sn8jknqefmslei28linj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5sU6S6MSH8D2M8n0MKD9icke6uSbmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406801092134-7p0sgctoiu46sn8jknqefmslei28linj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
